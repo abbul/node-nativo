@@ -1,0 +1,12 @@
+{
+  "name": "node_nativo",
+  "version": "1.0.0",
+  "description": "WebService nativo de Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Abbul Rodriguez",
+  "license": "ISC"
+}
